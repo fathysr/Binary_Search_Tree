@@ -14,6 +14,7 @@ Daha sonrasında sağımda 1 var bu da benden küçük yine soluma ekledim. Heme
 
 7
 / \
+
 5 8
 /
 1
