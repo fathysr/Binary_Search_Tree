@@ -10,7 +10,7 @@ Root olarak 7'yi kullanmak istiyorum.
 
 ------------
 
-7
+   7
   /
  5
 Daha sonrasında sağımda 1 var bu da benden küçük yine soluma ekledim. Hemen sağımda 8 var bu benden büyük artık sağ tarafıma ekliyorum.
